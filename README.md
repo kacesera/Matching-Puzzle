@@ -1,4 +1,4 @@
-# Matching-Puzzle
+# Memory Puzzle
 Matching Game for App Academy (RUBY course)
 
 # How to play:
